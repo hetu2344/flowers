@@ -56,7 +56,7 @@ const particlesConfig = {
     },
     number: {
       density: { enable: true },
-      value: 1,
+      value: 37,
     },
     shape: { type: "circle" },
     size: { value: { min: 1, max: 3 } },
