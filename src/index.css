@@ -14,7 +14,8 @@
 }
 
 .no-scroll {
-  overflow: hidden !important;
+  overflow: hidden;
+  overscroll-behavior: none;
 }
 
 a {
