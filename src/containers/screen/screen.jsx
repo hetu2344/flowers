@@ -37,7 +37,7 @@ const particlesConfig = {
           shape: { type: "circle" },
           size: { value: { min: 3, max: 5 } },
           life: {
-            duration: { sync: false, value: 1.25 },
+            duration: { sync: false, value: 3 },
             count: 1,
           },
           move: { speed: 2.5 },
